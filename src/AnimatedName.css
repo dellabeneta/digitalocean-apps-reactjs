@@ -10,7 +10,7 @@ body {
 
 .animated-name {
   font-size: 14vw; /* Tamanho da fonte em 14% da largura da viewport */
-  color: #000000; /* Cor preta */
+  color: #fffeff; /* Cor preta */
   font-family: 'Josefin Sans', sans-serif; /* Definindo a fonte como Josefin Sans */
   font-weight: bold; /* Definindo o peso da fonte como negrito */
   text-align: left; /* Alinhar o texto à esquerda */
@@ -27,5 +27,5 @@ body {
 
 @keyframes cursorBlink {
   0%, 100% { border-color: transparent; } /* Cursor visível */
-  25% { border-color: #000000; } /* Cursor invisível */
+  25% { border-color: #f6f6f6; } /* Cursor invisível */
 }
