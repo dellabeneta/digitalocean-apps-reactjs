@@ -16,6 +16,7 @@ const AnimatedName = () => {
       <span>e</span>
       <span>t</span>
       <span>a</span>
+      <span>.</span>
     </div>
   );
 }
