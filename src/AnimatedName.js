@@ -5,6 +5,7 @@ import './AnimatedName.css';
 const AnimatedName = () => {
   return (
     <div className="animated-name">
+      <span>.</span>
       <span>d</span>
       <span>e</span>
       <span>l</span>
@@ -16,7 +17,6 @@ const AnimatedName = () => {
       <span>e</span>
       <span>t</span>
       <span>a</span>
-      <span>.</span>
     </div>
   );
 }
